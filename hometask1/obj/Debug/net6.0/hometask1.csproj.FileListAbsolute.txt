@@ -1,0 +1,15 @@
+C:\Users\Никита\Desktop\Task\hometask1\bin\Debug\net6.0\hometask1.exe
+C:\Users\Никита\Desktop\Task\hometask1\bin\Debug\net6.0\hometask1.deps.json
+C:\Users\Никита\Desktop\Task\hometask1\bin\Debug\net6.0\hometask1.runtimeconfig.json
+C:\Users\Никита\Desktop\Task\hometask1\bin\Debug\net6.0\hometask1.dll
+C:\Users\Никита\Desktop\Task\hometask1\bin\Debug\net6.0\hometask1.pdb
+C:\Users\Никита\Desktop\Task\hometask1\obj\Debug\net6.0\hometask1.csproj.AssemblyReference.cache
+C:\Users\Никита\Desktop\Task\hometask1\obj\Debug\net6.0\hometask1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Никита\Desktop\Task\hometask1\obj\Debug\net6.0\hometask1.AssemblyInfoInputs.cache
+C:\Users\Никита\Desktop\Task\hometask1\obj\Debug\net6.0\hometask1.AssemblyInfo.cs
+C:\Users\Никита\Desktop\Task\hometask1\obj\Debug\net6.0\hometask1.csproj.CoreCompileInputs.cache
+C:\Users\Никита\Desktop\Task\hometask1\obj\Debug\net6.0\hometask1.dll
+C:\Users\Никита\Desktop\Task\hometask1\obj\Debug\net6.0\refint\hometask1.dll
+C:\Users\Никита\Desktop\Task\hometask1\obj\Debug\net6.0\hometask1.pdb
+C:\Users\Никита\Desktop\Task\hometask1\obj\Debug\net6.0\hometask1.genruntimeconfig.cache
+C:\Users\Никита\Desktop\Task\hometask1\obj\Debug\net6.0\ref\hometask1.dll
