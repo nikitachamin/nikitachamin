@@ -30,7 +30,7 @@ int FindANumber(int[] Array)
     {
         if (Array[i]%2 != 0)
         {
-            result++;
+            result = result + Array[i];
         }  
     }
      return result;
