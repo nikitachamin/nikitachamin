@@ -1,12 +1,18 @@
 ﻿void printArray(string[] ArrayToPrint)
 {
-   Console.Write("[");
+    Console.Write("[");
     for (var i = 0; i < ArrayToPrint.Length; i++)
     {
-        Console.Write(ArrayToPrint[i]);
-        if (i != ArrayToPrint.Length - 1)
+        if (!string.IsNullOrEmpty(ArrayToPrint[i]))
         {
-            Console.Write(", ");
+            if (i < ArrayToPrint.Length - 1)
+            {
+                Console.Write($"{ArrayToPrint[i]} ");
+            }
+            else
+            {
+                Console.Write($"{ArrayToPrint[i]}");
+            }
         }
     }
     Console.Write("]");
@@ -14,19 +20,20 @@
 
 string[] changedArray(string[] ArrayToChange)
 {
-    string [] result = new string [ArrayToChange.Length];
+    string[] result = new string[ArrayToChange.Length];
     for (var i = 0; i < ArrayToChange.Length; i++)
     {
-       if (ArrayToChange[i].Length < 4) 
-       {
-         result[i]= new string (ArrayToChange[i]); 
-       }
+        if (ArrayToChange[i].Length < 4)
+        {
+            result[i] = new string(ArrayToChange[i]);
+        }
     }
-  return result;
+    return result;
 }
-string []Array = new string[] {"hello","2","world"};
+string[] Array = new string[] { "Russia", "Denmark", "Kazan", ":-)" };
 printArray(Array);
-string [] ChangedArray = changedArray(Array);
+string[] ChangedArray = changedArray(Array);
+Console.Write("---->");
 printArray(ChangedArray);
 
 
